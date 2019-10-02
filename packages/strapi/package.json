@@ -1,6 +1,6 @@
 {
   "name": "strapi",
-  "version": "3.0.0-beta.16.6",
+  "version": "3.0.0-beta.16.7",
   "description": "An open source headless CMS solution to create and manage your own API. It provides a powerful dashboard and features to make your life easier. Databases supported: MongoDB, MySQL, MariaDB, PostgreSQL, SQLite",
   "homepage": "http://strapi.io",
   "directories": {
@@ -51,7 +51,7 @@
     "strapi-generate-api": "3.0.0-beta.16.6",
     "strapi-generate-controller": "3.0.0-beta.16.6",
     "strapi-generate-model": "3.0.0-beta.16.6",
-    "strapi-generate-new": "3.0.0-beta.16.6",
+    "strapi-generate-new": "^3.0.0-beta.16.7",
     "strapi-generate-plugin": "3.0.0-beta.16.6",
     "strapi-generate-policy": "3.0.0-beta.16.6",
     "strapi-generate-service": "3.0.0-beta.16.6",
